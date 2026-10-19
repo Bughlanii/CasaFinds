@@ -1,0 +1,6 @@
+{
+  "name": "CasaFinds Pinterest Auto-Poster",
+  "description": "Automated Pinterest API v5 publishing system for CasaFinds affiliate pins with strict compliance validation, queue scheduling, token lifecycle management, and daily logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
